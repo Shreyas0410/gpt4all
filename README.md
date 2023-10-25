@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html">🦜️🔗 Official Langchain Backend</a> 
+<a href="https://python.langchain.com/docs/integrations/llms/gpt4all.html">🦜️🔗 Official Langchain Backend</a> 
 </p>
 
 <p align="center">
